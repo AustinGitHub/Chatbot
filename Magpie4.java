@@ -1,5 +1,5 @@
 
-public class Magpie4
+public class Chatbot
 {
     /**
      * Get a default greeting   
