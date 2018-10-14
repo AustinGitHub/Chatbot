@@ -8,7 +8,7 @@ public class ChatbotRunner
 	 */
 	public static void main(String[] args)
 	{
-		Chatbot maggie = new Chatpot();
+		Chatbot maggie = new Chatbot();
 		
 		System.out.println (maggie.getGreeting());
 		Scanner in = new Scanner (System.in);
